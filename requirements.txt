@@ -2,5 +2,6 @@ fastapi
 uvicorn[standard]
 transformers
 torch
+torchvision
 pillow
 python-multipart
